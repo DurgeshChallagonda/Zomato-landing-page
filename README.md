@@ -1,4 +1,4 @@
-# This is my zomato landing page
+# This is my zomato landing page clone
 
 ## Done with first commit.
 edited in git hub
