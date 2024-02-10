@@ -6,7 +6,7 @@
 }
 
 .Hero__Section {
-    background-image: url(./images/heroSectionBackground.png);
+    background-image: url(images/heroSectionBackground.png);
     background-size: cover;
     background-position: center;
     color: white;
@@ -215,19 +215,19 @@
 }
 
 .card1{
-    background-image: url('./images/desktop-wallpaper-lock-screen-cricket.png.jpg');
+    background-image: url('images/desktop-wallpaper-lock-screen-cricket.png.jpg');
 }
 
 .card2{
-    background-image: url('./images/hyd.png');
+    background-image: url('images/hyd.png');
 }
 
 .card3{
-    background-image: url('./images/cocktail.png');
+    background-image: url('images/cocktail.png');
 }
 
 .card4{
-    background-image: url('./images/breakfast.png');
+    background-image: url('images/breakfast.png');
 }
 
 .overlay{
